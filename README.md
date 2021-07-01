@@ -4,7 +4,7 @@ This program was created to impliment the childhood game called rock paper and s
 Here, the players are computer and user.
 
 **This project is under active development.** 
-***The future changes includes the implementation of open cv***
+***The future changes includes the implementation of open cv.***
 
 Features
 --------
@@ -23,4 +23,4 @@ and library like :-
 Support
 -------
 
-If you are having idea or suggestion, please let me know at: rishi.shrestha101@gmail.com
+If you are having idea or suggestion, please let me know at: [Gmail](rishi.shrestha101@gmail.com) or in [LinkedIn](https://www.linkedin.com/in/rishi-raj-shrestha-2279331a9/)
