@@ -16,9 +16,7 @@ Installation
 ------------
 
 The RPS project uses the [Python](https://www.python.org/) programming language
-and library like :- 
 
-- [random](https://docs.python.org/3/library/random.html)
 
 Support
 -------
